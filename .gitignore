@@ -1,1 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.xlsx
+*.parquet
+*.feather
+
+# Environment
+.venv/
+venv/
+env/
+
+# Jupyter / outputs
 .DS_Store
